@@ -38,11 +38,4 @@ The app now uses **Llama 3.3 (via OpenRouter)** to understand your Hindi command
 
 ---
 
-### **Local Development Setup**
-1.  `npm install`
-2.  Create a `.env` file and add:
-    *   `VITE_FIREBASE_API_KEY=...`
-    *   `VITE_FIREBASE_AUTH_DOMAIN=...`
-    *   `VITE_FIREBASE_PROJECT_ID=...`
-    *   `OPENROUTER_API_KEY=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`
-3.  `npm run dev`
+

@@ -7,7 +7,7 @@ import { getFirestore } from 'firebase/firestore';
 // Your web app's Firebase configuration
 // This is sourced from the .env file
 const firebaseConfig = {
-  apiKey: "AIzaSyCDHfVYVcnY3jXJw36f8dI4fWD-YWhUItA",
+  apiKey: "",
   authDomain: "smart-farming-e0a57.firebaseapp.com",
   projectId: "smart-farming-e0a57",
   storageBucket: "smart-farming-e0a57.firebasestorage.app",
